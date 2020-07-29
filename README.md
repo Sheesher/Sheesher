@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ...
 -->
 - 🔭 I’m currently working on my [homepage](https://github.com/Sheesher/ayberk.sanberk.xyz)
-- 🌱 I’m currently learning JavaScript (React), Python, LaTeX, Go and Dart (Flutter)
+- 🌱 I’m currently learning JavaScript / TypeScript (React), Python, LaTeX, Go and Dart (Flutter)
 - 📫 How to reach me: sheeshkroete44@gmail.com
 
 ### Noteworthy projects:
