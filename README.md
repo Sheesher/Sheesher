@@ -12,7 +12,7 @@
 ### Noteworthy projects / repos:
 #### JavaScript
 - [German Bible CLI](https://www.npmjs.com/package/german-bible-cli): A CLI for the German Bible (SCH1951). It has many cool features and aint useless.
-- [amos](https://github.com/Sheesher/amos): A discord bot. It can play music and do much more things.
+- [amos](https://github.com/Sheesher/amos): A Discord bot. It can play music and do much more things.
 - ... (comin soon)
 
 #### TypeScript
