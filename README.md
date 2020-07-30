@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JavaScript / TypeScript (React), Python, LaTeX, Go and Dart (Flutter)
 - 📫 How to reach me: sheeshkroete44@gmail.com
 
-### Noteworthy projects:
+### Noteworthy projects / repos:
 #### JavaScript
 - [German Bible CLI](https://www.npmjs.com/package/german-bible-cli): A CLI for the German Bible (SCH1951). It has many cool features and aint useless.
 - [amos](https://github.com/Sheesher/amos): A discord bot. It can play music and do much more things.
