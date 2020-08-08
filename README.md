@@ -5,7 +5,7 @@
 **Sheesher/Sheesher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 -->
-- 🔭 I’m currently working on [ForD](https://github.com/Sheesher/ForD)
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript / TypeScript (React), Python, LaTeX, Go and Dart (Flutter)
 - 📫 How to reach me: sheeshkroete44@gmail.com
 
