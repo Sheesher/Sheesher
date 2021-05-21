@@ -1,4 +1,4 @@
-### Hi there 👋
+### Slime 🐹
 ![github stats](https://github-readme-stats.vercel.app/api?username=Sheesher&hide=stars&count_private=true&show_icons=true&theme=dracula)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheesher&layout=compact&theme=dracula)
 <!--
